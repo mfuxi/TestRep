@@ -1,2 +1,2 @@
 # TestRep
-Test repository for testing Bamboo
+Test repository for playing with Jekyll
