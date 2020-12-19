@@ -30,6 +30,7 @@ github_username:  jekyll
 # Build settings
 # Remove minima in favour of regular theme
 # theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
